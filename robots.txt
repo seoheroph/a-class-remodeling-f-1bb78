@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seoheroph.github.io/a-class-remodeling-f-1bb78/sitemap.xml
+Sitemap: https://a-class-remodeling-f-1bb78.pages.dev/sitemap.xml
